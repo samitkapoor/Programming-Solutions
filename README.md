@@ -1,2 +1,2 @@
 # DSA
-Data Structure and Algorithms 
+- Trying to commit atleast 1 problem daily
