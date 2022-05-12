@@ -37,4 +37,18 @@ public:
 
         return answer;
     }
+
+    // alternate answer
+    // int maxDepth(TreeNode *root, int depth = 1)
+    // {
+    //     if (root == nullptr)
+    //         return 0;
+
+    //     if (root->left == nullptr && root->right == nullptr)
+    //     {
+    //         return depth;
+    //     }
+
+    //     return max(maxDepth(root->right, depth + 1), maxDepth(root->left, depth + 1));
+    // }
 };
