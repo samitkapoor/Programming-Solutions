@@ -1,2 +1,2 @@
-# DSA
-- Trying to commit atleast 1 problem daily
+# Programming Solutions
+- Solutions to programming problems available online.
