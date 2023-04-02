@@ -1,56 +1,50 @@
-// { Driver Code Starts
+//{ Driver Code Starts
 #include <bits/stdc++.h>
 
 using namespace std;
 
 // } Driver Code Ends
-class Solution
-{
+class Solution{
 public:
-    vector<int> findTwoElement(int *arr, int n)
-    {
-        // code here
-        vector<int> result(2);
-        vector<int> hashMap(n, 1);
-
-        for (int i = 0; i < n; i++)
-        {
-            if (hashMap[arr[i] - 1] == 0)
-            {
-                result[0] = arr[i];
+    int *findTwoElement(int *arr, int n) {
+        int a, b;
+        
+        for(int i=0 ; i<n ; i++){
+            int val = arr[i];
+            
+            if(arr[abs(val)-1] < 0){
+                a = val;
             }
-            else
-            {
-                hashMap[arr[i] - 1] = 0;
+            else{
+                arr[abs(val)-1] *= -1;
             }
         }
-
-        for (int i = 0; i < n; i++)
-        {
-            if (hashMap[i] == 1)
-            {
-                result[1] = i + 1;
+        
+        for(int i=0 ; i <n ; i++){
+            if(arr[i] > 0){
+                b = i+1;
                 break;
             }
         }
-
-        return result;
+        
+        int *res = new int[2];
+        res[0] = abs(a);
+        res[1] = b;
+        
+        return res;
     }
 };
 
-// { Driver Code Starts.
+//{ Driver Code Starts.
 
-int main()
-{
+int main() {
     int t;
     cin >> t;
-    while (t--)
-    {
+    while (t--) {
         int n;
         cin >> n;
         int a[n];
-        for (int i = 0; i < n; i++)
-        {
+        for (int i = 0; i < n; i++) {
             cin >> a[i];
         }
         Solution ob;
@@ -58,4 +52,5 @@ int main()
         cout << ans[0] << " " << ans[1] << "\n";
     }
     return 0;
-} // } Driver Code Ends
+}
+// } Driver Code Ends
