@@ -4,323 +4,323 @@ This repository contains solutions and explanations for various competitive prog
 
 ## Table of Contents
 
-- [Codechef](#codechef)
-  - [ADVANCE](#advance)
-  - [AGELIMIT](#agelimit)
-  - [AVGSORT](#avgsort)
-  - [BUYLAMP](#buylamp)
-  - [CARCHOICE](#carchoice)
-  - [DOMINANT](#dominant)
-  - [Distinct Opposite Sums](#distinct-opposite-sums)
-  - [EQUALDIST](#equaldist)
-  - [FIRSTANDLAST](#firstandlast)
-  - [HELIUM3](#helium3)
-  - [LOOP](#loop)
-  - [MINFLIPS](#minflips)
-  - [MKSMEVN](#mksmevn)
-  - [MODULO3](#modulo3)
-  - [NOFIX](#nofix)
-  - [ONEORTWO](#oneortwo)
-  - [PRIMEFACT](#primefact)
-  - [PRINTINGBIN](#printingbin)
-  - [PUSH7PA](#push7pa)
-  - [SINGLEUSE](#singleuse)
-  - [Substring of a Substring](#substring-of-a-substring)
-  - [THREEAPFREE](#threeapfree)
-  - [WCC](#wcc)
-  - [XORPAL](#xorpal)
+- Codechef
+  - ADVANCE
+  - AGELIMIT
+  - AVGSORT
+  - BUYLAMP
+  - CARCHOICE
+  - DOMINANT
+  - Distinct Opposite Sums
+  - EQUALDIST
+  - FIRSTANDLAST
+  - HELIUM3
+  - LOOP
+  - MINFLIPS
+  - MKSMEVN
+  - MODULO3
+  - NOFIX
+  - ONEORTWO
+  - PRIMEFACT
+  - PRINTINGBIN
+  - PUSH7PA
+  - SINGLEUSE
+  - Substring of a Substring
+  - THREEAPFREE
+  - WCC
+  - XORPAL
 
-- [Coding Ninjas](#coding-ninjas)
-  - [0 1 Knapsack](#0-1-knapsack)
-  - [Best Time to Buy and Sell Stock I](#best-time-to-buy-and-sell-stock-i)
-  - [Best Time to Buy and Sell Stock II](#best-time-to-buy-and-sell-stock-ii)
-  - [Best Time to Buy and Sell Stock III](#best-time-to-buy-and-sell-stock-iii)
-  - [Best Time to Buy and Sell Stock IV](#best-time-to-buy-and-sell-stock-iv)
-  - [Best Time to Buy and Sell Stock with Cooldown](#best-time-to-buy-and-sell-stock-with-cooldown)
-  - [Best Time to Buy and Sell Stock with Transaction Fee](#best-time-to-buy-and-sell-stock-with-transaction-fee)
-  - [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
-  - [Frog Jump](#frog-jump)
-  - [Longest Bitonic Subsequence](#longest-bitonic-subsequence)
-  - [Longest Common Subsequence](#longest-common-subsequence)
-  - [Longest Common Substring](#longest-common-substring)
-  - [Longest Increasing Subsequence](#longest-increasing-subsequence)
-  - [Longest Palindromic Subsequence](#longest-palindromic-subsequence)
-  - [Longest String Chain](#longest-string-chain)
-  - [Maximum Path Sum](#maximum-path-sum)
-  - [Maximum sum of non-adjacent elements](#maximum-sum-of-non-adjacent-elements)
-  - [Minimum Elements](#minimum-elements)
-  - [Minimum Path Sum](#minimum-path-sum)
-  - [Minimum insertions to make a string palindrome](#minimum-insertions-to-make-a-string-palindrome)
-  - [Ninja's Training](#ninja's-training)
-  - [Ninjas and Indices](#ninjas-and-indices)
-  - [Number of Subsets](#number-of-subsets)
-  - [Partition Equal Subset Sum](#partition-equal-subset-sum)
-  - [Partition a set into two subsets such that the difference of subset sums is minimum](#partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum)
-  - [Partitions With Given Difference](#partitions-with-given-difference)
-  - [Rod cutting problem](#rod-cutting-problem)
-  - [Selection Sort](#selection-sort)
-  - [Shortest Common Supersequence](#shortest-common-supersequence)
-  - [Subset Sum Equal To K](#subset-sum-equal-to-k)
-  - [Travelling Fly Problem](#travelling-fly-problem)
-  - [Triangle](#triangle)
-  - [Unbounded Knapsack](#unbounded-knapsack)
-  - [Unique Paths II](#unique-paths-ii)
-  - [Unique Paths](#unique-paths)
-  - [Ways To Make Coin Change](#ways-to-make-coin-change)
+- Coding Ninjas
+  - 0 1 Knapsack
+  - Best Time to Buy and Sell Stock I
+  - Best Time to Buy and Sell Stock II
+  - Best Time to Buy and Sell Stock III
+  - Best Time to Buy and Sell Stock IV
+  - Best Time to Buy and Sell Stock with Cooldown
+  - Best Time to Buy and Sell Stock with Transaction Fee
+  - Best Time to Buy and Sell Stock
+  - Frog Jump
+  - Longest Bitonic Subsequence
+  - Longest Common Subsequence
+  - Longest Common Substring
+  - Longest Increasing Subsequence
+  - Longest Palindromic Subsequence
+  - Longest String Chain
+  - Maximum Path Sum
+  - Maximum sum of non-adjacent elements
+  - Minimum Elements
+  - Minimum Path Sum
+  - Minimum insertions to make a string palindrome
+  - Ninja's Training
+  - Ninjas and Indices
+  - Number of Subsets
+  - Partition Equal Subset Sum
+  - Partition a set into two subsets such that the difference of subset sums is minimum
+  - Partitions With Given Difference
+  - Rod cutting problem
+  - Selection Sort
+  - Shortest Common Supersequence
+  - Subset Sum Equal To K
+  - Travelling Fly Problem
+  - Triangle
+  - Unbounded Knapsack
+  - Unique Paths II
+  - Unique Paths
+  - Ways To Make Coin Change
 
-- [Geeksforgeeks](#geeksforgeeks)
-  - [0 - 1 Knapsack Problem](#0---1-knapsack-problem)
-  - [Alien Dictionary](#alien-dictionary)
-  - [Alternative positive and negative numbers](#alternative-positive-and-negative-numbers)
-  - [Bipartite Graph](#bipartite-graph)
-  - [Chocolate Distribution Problem](#chocolate-distribution-problem)
-  - [Common elements](#common-elements)
-  - [Consecutive 1's not allowed](#consecutive-1's-not-allowed)
-  - [Count Squares](#count-squares)
-  - [Count Total Set Bits from 1 to N](#count-total-set-bits-from-1-to-n)
-  - [Count pairs with given sum](#count-pairs-with-given-sum)
-  - [Count possible ways to construct buildings](#count-possible-ways-to-construct-buildings)
-  - [Course Schedule 2](#course-schedule-2)
-  - [Detect cycle in a directed graph](#detect-cycle-in-a-directed-graph)
-  - [Detect cycle in an undirected graph](#detect-cycle-in-an-undirected-graph)
-  - [Distance of nearest cell having 1](#distance-of-nearest-cell-having-1)
-  - [Eventual Safe States](#eventual-safe-states)
-  - [Find Missing And Repeating](#find-missing-and-repeating)
-  - [Find duplicates in an array](#find-duplicates-in-an-array)
-  - [Find minimum and maximum element in an array](#find-minimum-and-maximum-element-in-an-array)
-  - [Find missing and repeating](#find-missing-and-repeating)
-  - [Find the median](#find-the-median)
-  - [First and last occurence of x](#first-and-last-occurrence-of-x)
-  - [Gold Mine Problem](#gold-mine-problem)
-  - [Knapsack with Duplicate Items](#knapsack-with-duplicate-items)
-  - [Kth smallest element](#kth-smallest-element)
-  - [Longest Common Subsequence](#longest-common-subsequence)
-  - [Longest Increasing Subsequence](#longest-increasing-subsequence)
-  - [Longest alternating subsequence](#longest-alternating-subsequence)
-  - [M-Coloring Problem](#m-coloring-problem)
-  - [Major element](#major-element)
-  - [Max sum path in two arrays](#max-sum-path-in-two-arrays)
-  - [Maximum Index](#maximum-index)
-  - [Maximum and minimum element in the array](#maximum-and-minimum-element-in-the-array)
-  - [Median in a row-wise sorted Matrix](#median-in-a-row-wise-sorted-matrix)
-  - [Merge without extra space](#merge-without-extra-space)
-  - [Minimize the Heights II](#minimize-the-heights-ii)
-  - [Minimum element in a sorted and rotated array](#minimum-element-in-a-sorted-and-rotated-array)
-  - [Minimum number of jumps](#minimum-number-of-jumps)
-  - [Missing number in array](#missing-number-in-array)
-  - [Move all negative elements to end](#move-all-negative-elements-to-end)
-  - [N-Queen Problem](#n-queen-problem)
-  - [Number Of Enclaves](#number-of-enclaves)
-  - [Number of Distinct Islands](#number-of-distinct-islands)
-  - [Number of Provinces](#number-of-provinces)
-  - [Parenthesis Checker](#parenthesis-checker)
-  - [Partition Equal Subset Sum](#partition-equal-subset-sum)
-  - [Peak element](#peak-element)
-  - [Power set](#power-set)
-  - [Prerequisite Tasks](#prerequisite-tasks)
-  - [Rat in a Maze](#rat-in-a-maze)
-  - [Replace O's with X's](#replace-o's-with-x's)
-  - [Reverse an Array](#reverse-an-array)
-  - [Row with max 1s](#row-with-max-1s)
-  - [Shortest Common Supersequence](#shortest-common-supersequence)
-  - [Shortest path in Directed Acyclic Graph](#shortest-path-in-directed-acyclic-graph)
-  - [Shortest path in Undirected Graph having unit distance](#shortest-path-in-undirected-graph-having-unit-distance)
-  - [Sort The Array](#sort-the-array)
-  - [Sort an array consisting of 0,1,2](#sort-an-array-consisting-of-0,1,2)
-  - [Sorted Matrix](#sorted-matrix)
-  - [Spirally traversing a matrix](#spirally-traversing-a-matrix)
-  - [Subarray with 0 sum](#subarray-with-0-sum)
-  - [Subarray with given sum](#subarray-with-given-sum)
-  - [Subset Sum Problem](#subset-sum-problem)
-  - [Subset Sums](#subset-sums)
-  - [Sum Pair closest to X](#sum-pair-closest-to-x)
-  - [Three way partitioning](#three-way-partitioning)
-  - [Topological Sort](#topological-sort)
-  - [Trapping Rain Water](#trapping-rain-water)
-  - [Triplet Sum in Array](#triplet-sum-in-array)
-  - [Union of two arrays](#union-of-two-arrays)
-  - [Value equal to index value](#value-equal-to-index-value)
-  - [Word Ladder I](#word-ladder-i)
-  - [Word Ladder II](#word-ladder-ii)
-  - [Zero Sum Subarrays](#zero-sum-subarrays)
+- Geeksforgeeks
+  - 0 - 1 Knapsack Problem
+  - Alien Dictionary
+  - Alternative positive and negative numbers
+  - Bipartite Graph
+  - Chocolate Distribution Problem
+  - Common elements
+  - Consecutive 1's not allowed
+  - Count Squares
+  - Count Total Set Bits from 1 to N
+  - Count pairs with given sum
+  - Count possible ways to construct buildings
+  - Course Schedule 2
+  - Detect cycle in a directed graph
+  - Detect cycle in an undirected graph
+  - Distance of nearest cell having 1
+  - Eventual Safe States
+  - Find Missing And Repeating
+  - Find duplicates in an array
+  - Find minimum and maximum element in an array
+  - Find missing and repeating
+  - Find the median
+  - First and last occurence of x
+  - Gold Mine Problem
+  - Knapsack with Duplicate Items
+  - Kth smallest element
+  - Longest Common Subsequence
+  - Longest Increasing Subsequence
+  - Longest alternating subsequence
+  - M-Coloring Problem
+  - Major element
+  - Max sum path in two arrays
+  - Maximum Index
+  - Maximum and minimum element in the array
+  - Median in a row-wise sorted Matrix
+  - Merge without extra space
+  - Minimize the Heights II
+  - Minimum element in a sorted and rotated array
+  - Minimum number of jumps
+  - Missing number in array
+  - Move all negative elements to end
+  - N-Queen Problem
+  - Number Of Enclaves
+  - Number of Distinct Islands
+  - Number of Provinces
+  - Parenthesis Checker
+  - Partition Equal Subset Sum
+  - Peak element
+  - Power set
+  - Prerequisite Tasks
+  - Rat in a Maze
+  - Replace O's with X's
+  - Reverse an Array
+  - Row with max 1s
+  - Shortest Common Supersequence
+  - Shortest path in Directed Acyclic Graph
+  - Shortest path in Undirected Graph having unit distance
+  - Sort The Array
+  - Sort an array consisting of 0,1,2
+  - Sorted Matrix
+  - Spirally traversing a matrix
+  - Subarray with 0 sum
+  - Subarray with given sum
+  - Subset Sum Problem
+  - Subset Sums
+  - Sum Pair closest to X
+  - Three way partitioning
+  - Topological Sort
+  - Trapping Rain Water
+  - Triplet Sum in Array
+  - Union of two arrays
+  - Value equal to index value
+  - Word Ladder I
+  - Word Ladder II
+  - Zero Sum Subarrays
 
-- [Hackerrank](#hackerrank)
-  - [Binary Search Tree Insertion](#binary-search-tree-insertion)
-  - [Binary Search Tree Lowest Common Ancestor](#binary-search-tree-lowest-common-ancestor)
-  - [Bot saves Princess](#bot-saves-princess)
-  - [Highest Value Palindrome](#highest-value-palindrome)
-  - [Jesse and Cookies](#jesse-and-cookies)
-  - [Magical Mushroom Export](#magical-mushroom-export)
-  - [Maximum Element](#maximum-element)
-  - [QHEAP1](#qheap1)
-  - [Tree Huffman Decoding](#tree-huffman-decoding)
-  - [Tree Level Order Traversal](#tree-level-order-traversal)
-  - [Tree Top View](#tree-top-view)
+- Hackerrank
+  - Binary Search Tree Insertion
+  - Binary Search Tree Lowest Common Ancestor
+  - Bot saves Princess
+  - Highest Value Palindrome
+  - Jesse and Cookies
+  - Magical Mushroom Export
+  - Maximum Element
+  - QHEAP1
+  - Tree Huffman Decoding
+  - Tree Level Order Traversal
+  - Tree Top View
 
-- [Leetcode](#leetcode)
-  - [01 Matrix](#01-matrix)
-  - [132 Pattern](#132-pattern)
-  - [3Sum Closest](#3sum-closest)
-  - [3Sum](#3sum)
-  - [4Sum](#4sum)
-  - [Add Two Numbers](#add-two-numbers)
-  - [Average of Levels in Binary Tree](#average-of-levels-in-binary-tree)
-  - [Balanced Binary Tree](#balanced-binary-tree)
-  - [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
-  - [Binary Search](#binary-search)
-  - [Binary Tree Inorder Traversal](#binary-tree-inorder-traversal)
-  - [Binary Tree Level Order Traversal](#binary-tree-level-order-traversal)
-  - [Binary Tree Pruning](#binary-tree-pruning)
-  - [Binary Tree Right Side View](#binary-tree-right-side-view)
-  - [Buddy Strings](#buddy-strings)
-  - [Check if There is a Valid Partition For The Array](#check-if-there-is-a-valid-partition-for-the-array)
-  - [Climbing Stairs](#climbing-stairs)
-  - [Coin Change II](#coin-change-ii)
-  - [Coin Change](#coin-change)
-  - [Combination Sum](#combination-sum)
-  - [Combinations](#combinations)
-  - [Construct String from Binary Tree](#construct-string-from-binary-tree)
-  - [Container with most water](#container-with-most-water)
-  - [Contains Duplicate](#contains-duplicate)
-  - [Convert Sorted Array to Binary Search Tree](#convert-sorted-array-to-binary-search-tree)
-  - [Count Good Nodes in Binary Tree](#count-good-nodes-in-binary-tree)
-  - [Count and Say](#count-and-say)
-  - [Counting Bits](#counting-bits)
-  - [Decode Ways](#decode-ways)
-  - [Design Hashmap](#design-hashmap)
-  - [Diameter of Binary Tree](#diameter-of-binary-tree)
-  - [Distinct Subsequences](#distinct-subsequences)
-  - [Edit Distance](#edit-distance)
-  - [Fibonacci Number](#fibonacci-number)
-  - [Find Bottom Left Tree Value](#find-bottom-left-tree-value)
-  - [Find First and Last Position of Element in Sorted Array](#find-first-and-last-position-of-element-in-sorted-array)
-  - [Find Largest Value in Each Tree Row](#find-largest-value-in-each-tree-row)
-  - [Find Minimum in Rotated Sorted Array](#find-minimum-in-rotated-sorted-array)
-  - [First Bad Version](#first-bad-version)
-  - [Flatten Binary Tree to Linked List](#flatten-binary-tree-to-linked-list)
-  - [Flood Fill](#flood-fill)
-  - [Generate Parentheses](#generate-parentheses)
-  - [Hand of Straights](#hand-of-straights)
-  - [House Robber II](#house-robber-ii)
-  - [House Robber](#house-robber)
-  - [Interleaving String](#interleaving-string)
-  - [Invert Binary Tree](#invert-binary-tree)
-  - [Jump Game II](#jump-game-ii)
-  - [Jump Game](#jump-game)
-  - [Keys and Rooms](#keys-and-rooms)
-  - [Letter Combinations of a Phone Number](#letter-combinations-of-a-phone-number)
-  - [Linked List Cycle](#linked-list-cycle)
-  - [Longest Common Subsequence](#longest-common-subsequence)
-  - [Longest Increasing Subsequence](#longest-increasing-subsequence)
-  - [Longest Palindromic Subsequence](#longest-palindromic-subsequence)
-  - [Longest Palindromic Substring](#longest-palindromic-substring)
-  - [Lowest Common Ancestor of a Binary Tree](#lowest-common-ancestor-of-a-binary-tree)
-  - [Majority element II](#majority-element-ii)
-  - [Make the String Great](#make-the-string-great)
-  - [Matchsticks to Square](#matchsticks-to-square)
-  - [Max Area of Island](#max-area-of-island)
-  - [Maximal Network Rank](#maximal-network-rank)
-  - [Maximum 69 Number](#maximum-69-number)
-  - [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](#maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
-  - [Maximum Number of Vowels in a Substring of Given Length](#maximum-number-of-vowels-in-a-substring-of-given-length)
-  - [Maximum Points You Can Obtain from Cards](#maximum-points-you-can-obtain-from-cards)
-  - [Maximum Product Difference Between Two Pairs](#maximum-product-difference-between-two-pairs)
-  - [Maximum Product Subarray](#maximum-product-subarray)
-  - [Maximum Units on a Truck](#maximum-units-on-a-truck)
-  - [Maximum depth of binary tree](#maximum-depth-of-binary-tree)
-  - [Median of Two Sorted Arrays](#median-of-two-sorted-arrays)
-  - [Merge Sorted Array](#merge-sorted-array)
-  - [Merge Two Binary Trees](#merge-two-binary-trees)
-  - [Merge Two Sorted Lists](#merge-two-sorted-lists)
-  - [Merge intervals](#merge-intervals)
-  - [Middle of the Linked List](#middle-of-the-linked-list)
-  - [Minimize the Maximum Difference of Pairs](#minimize-the-maximum-difference-of-pairs)
-  - [Minimum Deletions to Make Character Frequencies Unique](#minimum-deletions-to-make-character-frequencies-unique)
-  - [Minimum Falling Path Sum](#minimum-falling-path-sum)
-  - [Minimum Operations to Reduce X to Zero](#minimum-operations-to-reduce-x-to-zero)
-  - [Minimum Path Sum](#minimum-path-sum)
-  - [Minimum Speed to Arrive on Time](#minimum-speed-to-arrive-on-time)
-  - [Missing Number](#missing-number)
-  - [N-Queens](#n-queens)
-  - [N-ary Tree Postorder Traversal](#n-ary-tree-postorder-traversal)
-  - [N-ary Tree Preorder Traversal](#n-ary-tree-preorder-traversal)
-  - [Next Permutation](#next-permutation)
-  - [Number of 1 Bits](#number-of-1-bits)
-  - [Number of Islands](#number-of-islands)
-  - [Number of Matching Subsequences](#number-of-matching-subsequences)
-  - [Numbers With Same Consecutive Differences](#numbers-with-same-consecutive-differences)
-  - [Odd Even Linked List](#odd-even-linked-list)
-  - [Out of Boundary Paths](#out-of-boundary-paths)
-  - [Palindrome Linked List](#palindrome-linked-list)
-  - [Palindrome Number](#palindrome-number)
-  - [Palindrome Partitioning](#palindrome-partitioning)
-  - [Partition List](#partition-list)
-  - [Partitioning Into Minimum Number Of Deci-Binary Numbers](#partitioning-into-minimum-number-of-deci-binary-numbers)
-  - [Pascal's Triangle](#pascal's-triangle)
-  - [Path Sum II](#path-sum-ii)
-  - [Path Sum](#path-sum)
-  - [Peak Index in a Mountain Array](#peak-index-in-a-mountain-array)
-  - [Permutation Sequence](#permutation-sequence)
-  - [Permutations](#permutations)
-  - [Power of Four](#power-of-four)
-  - [Power of Three](#power-of-three)
-  - [Product of Array Except Self](#product-of-array-except-self)
-  - [Push Dominoes](#push-dominoes)
-  - [Queue Reconstruction by Height](#queue-reconstruction-by-height)
-  - [Range Sum of BST](#range-sum-of-bst)
-  - [Ransom Note](#ransom-note)
-  - [Reduce Array Size to the Half](#reduce-array-size-to-the-half)
-  - [Remove Colored Pieces if Both Neighbors are the Same Color](#remove-colored-pieces-if-both-neighbors-are-the-same-color)
-  - [Remove Nth Node From End Of List](#remove-nth-node-from-end-of-list)
-  - [Reordered Power of 2](#reordered-power-of-2)
-  - [Reverse Bits](#reverse-bits)
-  - [Reverse Linked List II](#reverse-linked-list-ii)
-  - [Reverse Linked List](#reverse-linked-list)
-  - [Reverse String](#reverse-string)
-  - [Reverse Vowels of a String](#reverse-vowels-of-a-string)
-  - [Reverse Words in a String III](#reverse-words-in-a-string-iii)
-  - [Robot Return to Origin](#robot-return-to-origin)
-  - [Rotate Image](#rotate-image)
-  - [Rotting Oranges](#rotting-oranges)
-  - [Search a 2D Matrix II](#search-a-2d-matrix-ii)
-  - [Search a 2D matrix](#search-a-2d-matrix)
-  - [Search in Rotated Sorted Array II](#search-in-rotated-sorted-array-ii)
-  - [Search in a BST](#search-in-a-bst)
-  - [Search in a rotated sorted array](#search-in-a-rotated-sorted-array)
-  - [Single Element in a Sorted Array](#single-element-in-a-sorted-array)
-  - [Sort Array By Parity](#sort-array-by-parity)
-  - [Sort Colors](#sort-colors)
-  - [Sort the Matrix Diagonally](#sort-the-matrix-diagonally)
-  - [Squares of a Sorted Array](#squares-of-a-sorted-array)
-  - [Subsets II](#subsets-ii)
-  - [Subsets](#subsets)
-  - [Sudoku Solver](#sudoku-solver)
-  - [Sum of Two Integers](#sum-of-two-integers)
-  - [Swap Nodes in Pairs](#swap-nodes-in-pairs)
-  - [Symmetric Tree](#symmetric-tree)
-  - [The Number of Weak Characters in the Game](#the-number-of-weak-characters-in-the-game)
-  - [Trapping Rain Water](#trapping-rain-water)
-  - [Triangle](#triangle)
-  - [Two Sum II - Input Array Is Sorted](#two-sum-ii---input-array-is-sorted)
-  - [Two Sum](#two-sum)
-  - [Unique Binary Search Trees II](#unique-binary-search-trees-ii)
-  - [Unique Morse Code Words](#unique-morse-code-words)
-  - [Unique Paths](#unique-paths)
-  - [Univalued Binary Tree](#univalued-binary-tree)
-  - [Valid Anagram](#valid-anagram)
-  - [Valid Palindrome](#valid-palindrome)
-  - [Vertical Order Traversal of a Binary Tree](#vertical-order-traversal-of-a-binary-tree)
-  - [Word Break](#word-break)
-  - [Word Subsets](#word-subsets)
-  - [Zigzag Conversion](#zigzag-conversion)
-  - [N-ary Tree Level Order Traversal](#n-ary-tree-level-order-traversal)
+- Leetcode
+  - 01 Matrix
+  - 132 Pattern
+  - 3Sum Closest
+  - 3Sum
+  - 4Sum
+  - Add Two Numbers
+  - Average of Levels in Binary Tree
+  - Balanced Binary Tree
+  - Best Time to Buy and Sell Stock
+  - Binary Search
+  - Binary Tree Inorder Traversal
+  - Binary Tree Level Order Traversal
+  - Binary Tree Pruning
+  - Binary Tree Right Side View
+  - Buddy Strings
+  - Check if There is a Valid Partition For The Array
+  - Climbing Stairs
+  - Coin Change II
+  - Coin Change
+  - Combination Sum
+  - Combinations
+  - Construct String from Binary Tree
+  - Container with most water
+  - Contains Duplicate
+  - Convert Sorted Array to Binary Search Tree
+  - Count Good Nodes in Binary Tree
+  - Count and Say
+  - Counting Bits
+  - Decode Ways
+  - Design Hashmap
+  - Diameter of Binary Tree
+  - Distinct Subsequences
+  - Edit Distance
+  - Fibonacci Number
+  - Find Bottom Left Tree Value
+  - Find First and Last Position of Element in Sorted Array
+  - Find Largest Value in Each Tree Row
+  - Find Minimum in Rotated Sorted Array
+  - First Bad Version
+  - Flatten Binary Tree to Linked List
+  - Flood Fill
+  - Generate Parentheses
+  - Hand of Straights
+  - House Robber II
+  - House Robber
+  - Interleaving String
+  - Invert Binary Tree
+  - Jump Game II
+  - Jump Game
+  - Keys and Rooms
+  - Letter Combinations of a Phone Number
+  - Linked List Cycle
+  - Longest Common Subsequence
+  - Longest Increasing Subsequence
+  - Longest Palindromic Subsequence
+  - Longest Palindromic Substring
+  - Lowest Common Ancestor of a Binary Tree
+  - Majority element II
+  - Make the String Great
+  - Matchsticks to Square
+  - Max Area of Island
+  - Maximal Network Rank
+  - Maximum 69 Number
+  - Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+  - Maximum Number of Vowels in a Substring of Given Length
+  - Maximum Points You Can Obtain from Cards
+  - Maximum Product Difference Between Two Pairs
+  - Maximum Product Subarray
+  - Maximum Units on a Truck
+  - Maximum depth of binary tree
+  - Median of Two Sorted Arrays
+  - Merge Sorted Array
+  - Merge Two Binary Trees
+  - Merge Two Sorted Lists
+  - Merge intervals
+  - Middle of the Linked List
+  - Minimize the Maximum Difference of Pairs
+  - Minimum Deletions to Make Character Frequencies Unique
+  - Minimum Falling Path Sum
+  - Minimum Operations to Reduce X to Zero
+  - Minimum Path Sum
+  - Minimum Speed to Arrive on Time
+  - Missing Number
+  - N-Queens
+  - N-ary Tree Postorder Traversal
+  - N-ary Tree Preorder Traversal
+  - Next Permutation
+  - Number of 1 Bits
+  - Number of Islands
+  - Number of Matching Subsequences
+  - Numbers With Same Consecutive Differences
+  - Odd Even Linked List
+  - Out of Boundary Paths
+  - Palindrome Linked List
+  - Palindrome Number
+  - Palindrome Partitioning
+  - Partition List
+  - Partitioning Into Minimum Number Of Deci-Binary Numbers
+  - Pascal's Triangle
+  - Path Sum II
+  - Path Sum
+  - Peak Index in a Mountain Array
+  - Permutation Sequence
+  - Permutations
+  - Power of Four
+  - Power of Three
+  - Product of Array Except Self
+  - Push Dominoes
+  - Queue Reconstruction by Height
+  - Range Sum of BST
+  - Ransom Note
+  - Reduce Array Size to the Half
+  - Remove Colored Pieces if Both Neighbors are the Same Color
+  - Remove Nth Node From End Of List
+  - Reordered Power of 2
+  - Reverse Bits
+  - Reverse Linked List II
+  - Reverse Linked List
+  - Reverse String
+  - Reverse Vowels of a String
+  - Reverse Words in a String III
+  - Robot Return to Origin
+  - Rotate Image
+  - Rotting Oranges
+  - Search a 2D Matrix II
+  - Search a 2D matrix
+  - Search in Rotated Sorted Array II
+  - Search in a BST
+  - Search in a rotated sorted array
+  - Single Element in a Sorted Array
+  - Sort Array By Parity
+  - Sort Colors
+  - Sort the Matrix Diagonally
+  - Squares of a Sorted Array
+  - Subsets II
+  - Subsets
+  - Sudoku Solver
+  - Sum of Two Integers
+  - Swap Nodes in Pairs
+  - Symmetric Tree
+  - The Number of Weak Characters in the Game
+  - Trapping Rain Water
+  - Triangle
+  - Two Sum II
+  - Two Sum
+  - Unique Binary Search Trees II
+  - Unique Morse Code Words
+  - Unique Paths
+  - Univalued Binary Tree
+  - Valid Anagram
+  - Valid Palindrome
+  - Vertical Order Traversal of a Binary Tree
+  - Word Break
+  - Word Subsets
+  - Zigzag Conversion
+  - N-ary Tree Level Order Traversal
 
-- [Others](#others)
-  - [Array Implementation](#array-implementation)
-  - [Merge Sort](#merge-sort)
-  - [Merge two sorted arrays](#merge-two-sorted-arrays)
-  - [Quick Sort](#quick-sort)
-  - [Rotate a matrix by 90 degrees](#rotate-a-matrix-by-90-degrees)
-  - [Shortest Job First](#shortest-job-first)
-  - [Tower Of Hanoi](#tower-of-hanoi)
-  - [Warshall's Algorithm](#warshall's-algorithm)
+- Others
+  - Array Implementation
+  - Merge Sort
+  - Merge two sorted arrays
+  - Quick Sort
+  - Rotate a matrix by 90 degrees
+  - Shortest Job First
+  - Tower Of Hanoi
+  - Warshall's Algorithm
